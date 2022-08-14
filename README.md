@@ -6,7 +6,9 @@ Welcome, this is a **React** application powered by **Firebase (a NoSQL Cloud Da
 
 Below are some pictures of the application, which will soon be deployed, but until then, feel free to download and play around with it. I'm hoping to add a bit more functionality into the project before I deploy it.
 
-<img width="1434" alt="Screen Shot 2022-08-13 at 10 43 23 PM" src="https://user-images.githubusercontent.com/89411519/184520380-768e3b5a-f54f-448b-b8e4-c2fe5000c573.png">
+<img width="1438" alt="Screen Shot 2022-08-13 at 10 55 34 PM" src="https://user-images.githubusercontent.com/89411519/184520559-42e42ed9-8d01-45fb-840d-cb188416b27f.png">
+
+<img width="780" alt="Screen Shot 2022-08-13 at 10 56 28 PM" src="https://user-images.githubusercontent.com/89411519/184520560-e287be36-be77-4861-aa41-6f7392da2f6d.png">
 
 <img width="832" alt="Screen Shot 2022-08-13 at 10 40 58 PM" src="https://user-images.githubusercontent.com/89411519/184520402-26f49318-7b69-4098-82ee-03942bf3149c.png">
 

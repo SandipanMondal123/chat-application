@@ -15,10 +15,10 @@ const style =  {
 function App() {
 
   const [user] = useAuthState(auth);
-  //console.log(user);
+  //console.log(process.env);  
   return (
     <div className = {style.appContainer}>
-       
+      
       <section className = {style.sectionContainer}>
         <Navbar />
         {user ? <Chat/> : null}

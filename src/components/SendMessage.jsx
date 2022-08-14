@@ -4,8 +4,8 @@ import {addDoc, collection, serverTimestamp} from 'firebase/firestore'
 
 const style = {
   form: `h-14 w-full max-w-[728px]  flex text-xl absolute bottom-0`,
-  input: `w-full text-xl p-3 bg-gray-900 text-white outline-none border-none rounded-bl-3xl`,
-  button: `w-[20%] bg-green-500 rounded-br-3xl`,
+  input: `w-full text-xl p-3 bg-gray-900 text-white outline-none border-none rounded-3xl`,
+  button: `w-[20%] bg-green-300 rounded-3xl transition ease-in-out delay-20  hover:-translate-y-1 hover:scale-110 hover:bg-green-500 duration-300`,
 };
 
 const SendMessage = ({scroll}) => {

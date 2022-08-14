@@ -6,8 +6,8 @@ import {auth} from '../firebase.js';
 import {useAuthState} from 'react-firebase-hooks/auth';
 
 const style = {
-    nav :`bg-gray-800 h-20 flex justify-between items-center p-4 rounded-t-3xl`,
-    heading: `text-white text-3xl`
+    nav :` bg-blue-300 bg-gray-800 h-20 flex justify-between items-center p-4 rounded-t-3xl`,
+    heading: ` text-white text-4xl`
 }
 const NavBar = () => {
     const [user] = useAuthState(auth);

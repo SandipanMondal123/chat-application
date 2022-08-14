@@ -1,3 +1,17 @@
+1. cd into project
+2. npm install
+3. npm run 
+
+Welcome, this is a **React** application powered by **Firebase (a NoSQL Cloud Database)** to store messages between individuals. This app features Google authentation to login in users and allows individuals to message each other.
+
+Below are some pictures of the application, which will soon be deployed, but until then, feel free to download and play around with it. I'm hoping to add a bit more functionality into the project before I deploy it.
+
+<img width="1434" alt="Screen Shot 2022-08-13 at 10 43 23 PM" src="https://user-images.githubusercontent.com/89411519/184520380-768e3b5a-f54f-448b-b8e4-c2fe5000c573.png">
+
+<img width="832" alt="Screen Shot 2022-08-13 at 10 40 58 PM" src="https://user-images.githubusercontent.com/89411519/184520402-26f49318-7b69-4098-82ee-03942bf3149c.png">
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
